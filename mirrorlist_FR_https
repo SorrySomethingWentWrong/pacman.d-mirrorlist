@@ -15,3 +15,6 @@ Server = https://mirror.oldsql.cc/archlinux/$repo/os/$arch
 Server = https://mirror.thekinrar.fr/archlinux/$repo/os/$arch
 Server = https://mirror.wormhole.eu/archlinux/$repo/os/$arch
 Server = https://arch.yourlabs.org/$repo/os/$arch
+
+## Worldwide
+Server = https://mirror.rackspace.com/archlinux/$repo/os/$arch
